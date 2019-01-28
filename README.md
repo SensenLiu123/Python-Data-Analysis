@@ -1,3 +1,6 @@
-# Web-Data-Analysis
+# Python-Data-Analysis
 ## Read me
-A practice piece of codes from Coursera. Pulled email communcations and do some analysis. 
+A practice piece of codes from Coursera. Projects include:
+* Pulled email communcations and parsing and analysis. 
+* Working and processing different data structures.
+* Interaction with CSV files.
